@@ -14,202 +14,162 @@
       "pending": 274953,
       "invalid": 2,
       "median_days": 609,
-      "min_case": {
-        "registration_number": "55518/RD/2019",
-        "registration_date": "2022-07-10",
-        "resolved_date": "2022-08-08",
-        "days": 29
-      },
-      "max_case": {
-        "registration_number": "90499/RD/2019",
-        "registration_date": "2011-11-14",
-        "resolved_date": "2023-08-24",
-        "days": 4301
-      },
-      "latest_case": {
-        "registration_number": "16249/RD/2022",
-        "registration_date": "2022-06-15",
-        "resolved_date": "2026-09-02",
-        "days": 1540
-      },
-      "newest_case": {
-        "registration_number": "2880/RD/2026",
-        "registration_date": "2026-03-23",
-        "resolved_date": "2026-07-30",
-        "days": 129
-      },
+      "avg_days": 736,
+      "min_days": 29,
+      "max_days": 4301,
       "by_year": [
         {
           "year": 2010,
           "total": 96407,
-          "resolved": 57578
+          "resolved": 57578,
+          "pending": 38829,
+          "avg_days": 406,
+          "latest_resolution_date": "2018-01-29",
+          "median_days": 382
         },
         {
           "year": 2011,
           "total": 1592,
-          "resolved": 1579
+          "resolved": 1579,
+          "pending": 13,
+          "avg_days": 247,
+          "latest_resolution_date": "2023-08-24",
+          "median_days": 215
         },
         {
           "year": 2012,
           "total": 88665,
-          "resolved": 88207
+          "resolved": 88207,
+          "pending": 458,
+          "avg_days": 603,
+          "latest_resolution_date": "2022-11-04",
+          "median_days": 579
         },
         {
           "year": 2013,
           "total": 52796,
-          "resolved": 52534
+          "resolved": 52534,
+          "pending": 262,
+          "avg_days": 573,
+          "latest_resolution_date": "2018-10-24",
+          "median_days": 560
         },
         {
           "year": 2014,
           "total": 21666,
-          "resolved": 21508
+          "resolved": 21508,
+          "pending": 158,
+          "avg_days": 468,
+          "latest_resolution_date": "2020-07-22",
+          "median_days": 491
         },
         {
           "year": 2015,
           "total": 81156,
-          "resolved": 59717
+          "resolved": 59717,
+          "pending": 21439,
+          "avg_days": 354,
+          "latest_resolution_date": "2024-12-06",
+          "median_days": 344
         },
         {
           "year": 2016,
           "total": 114864,
-          "resolved": 98223
+          "resolved": 98223,
+          "pending": 16641,
+          "avg_days": 421,
+          "latest_resolution_date": "2026-08-18",
+          "median_days": 385
         },
         {
           "year": 2017,
           "total": 94309,
-          "resolved": 83084
+          "resolved": 83084,
+          "pending": 11225,
+          "avg_days": 800,
+          "latest_resolution_date": "2026-08-04",
+          "median_days": 763
         },
         {
           "year": 2018,
           "total": 96683,
-          "resolved": 84199
+          "resolved": 84199,
+          "pending": 12484,
+          "avg_days": 978,
+          "latest_resolution_date": "2026-08-18",
+          "median_days": 921
         },
         {
           "year": 2019,
           "total": 100224,
-          "resolved": 81425
+          "resolved": 81425,
+          "pending": 18799,
+          "avg_days": 1215,
+          "latest_resolution_date": "2026-09-01",
+          "median_days": 1144
         },
         {
           "year": 2020,
           "total": 22200,
-          "resolved": 16970
+          "resolved": 16970,
+          "pending": 5230,
+          "avg_days": 1387,
+          "latest_resolution_date": "2026-09-01",
+          "median_days": 1270
         },
         {
           "year": 2021,
           "total": 42049,
-          "resolved": 30844
+          "resolved": 30844,
+          "pending": 11205,
+          "avg_days": 1197,
+          "latest_resolution_date": "2026-09-01",
+          "median_days": 1137
         },
         {
           "year": 2022,
           "total": 36432,
-          "resolved": 21748
+          "resolved": 21748,
+          "pending": 14684,
+          "avg_days": 1050,
+          "latest_resolution_date": "2026-09-02",
+          "median_days": 1085
         },
         {
           "year": 2023,
           "total": 45649,
-          "resolved": 10578
+          "resolved": 10578,
+          "pending": 35071,
+          "avg_days": 1023,
+          "latest_resolution_date": "2026-09-02",
+          "median_days": 1126
         },
         {
           "year": 2024,
           "total": 55157,
-          "resolved": 1540
+          "resolved": 1540,
+          "pending": 53617,
+          "avg_days": 711,
+          "latest_resolution_date": "2026-08-26",
+          "median_days": 768
         },
         {
           "year": 2025,
           "total": 27163,
-          "resolved": 282
+          "resolved": 282,
+          "pending": 26881,
+          "avg_days": 262,
+          "latest_resolution_date": "2026-09-02",
+          "median_days": 257
         },
         {
           "year": 2026,
           "total": 7958,
-          "resolved": 1
-        }
-      ],
-      "last_resolved_by_year": [
-        {
-          "year": 2010,
-          "registration_number": "68646/RD/2010",
-          "registration_date": "2010-12-31"
-        },
-        {
-          "year": 2011,
-          "registration_number": "101683/RD/2011",
-          "registration_date": "2011-12-28"
-        },
-        {
-          "year": 2012,
-          "registration_number": "88678/RD/2012",
-          "registration_date": "2012-12-28"
-        },
-        {
-          "year": 2013,
-          "registration_number": "52809/RD/2013",
-          "registration_date": "2013-12-30"
-        },
-        {
-          "year": 2014,
-          "registration_number": "21664/RD/2014",
-          "registration_date": "2014-12-30"
-        },
-        {
-          "year": 2015,
-          "registration_number": "81154/RD/2015",
-          "registration_date": "2015-12-31"
-        },
-        {
-          "year": 2016,
-          "registration_number": "114912/RD/2016",
-          "registration_date": "2016-12-30"
-        },
-        {
-          "year": 2017,
-          "registration_number": "94556/RD/2017",
-          "registration_date": "2017-12-29"
-        },
-        {
-          "year": 2018,
-          "registration_number": "99778/RD/2018",
-          "registration_date": "2018-12-28"
-        },
-        {
-          "year": 2019,
-          "registration_number": "983/RD/2020",
-          "registration_date": "2019-12-31"
-        },
-        {
-          "year": 2020,
-          "registration_number": "265/RD/2021",
-          "registration_date": "2020-12-31"
-        },
-        {
-          "year": 2021,
-          "registration_number": "45837/RD/2021",
-          "registration_date": "2021-12-31"
-        },
-        {
-          "year": 2022,
-          "registration_number": "39841/RD/2022",
-          "registration_date": "2022-12-30"
-        },
-        {
-          "year": 2023,
-          "registration_number": "9502/RD/2024",
-          "registration_date": "2023-12-29"
-        },
-        {
-          "year": 2024,
-          "registration_number": "60059/A/2024",
-          "registration_date": "2024-12-31"
-        },
-        {
-          "year": 2025,
-          "registration_number": "23383/A/2025",
-          "registration_date": "2025-09-09"
-        },
-        {
-          "year": 2026,
-          "registration_number": "2880/RD/2026",
-          "registration_date": "2026-03-23"
+          "resolved": 1,
+          "pending": 7957,
+          "avg_days": 129,
+          "latest_resolution_date": "2026-07-30",
+          "median_days": 129
         }
       ]
     },
@@ -222,197 +182,162 @@
       "pending": 22376,
       "invalid": 1,
       "median_days": 405,
-      "min_case": {
-        "registration_number": "82598/RD/2018",
-        "registration_date": "2018-10-25",
-        "resolved_date": "2018-11-28",
-        "days": 34
-      },
-      "max_case": {
-        "registration_number": "78634/RD/2017",
-        "registration_date": "2017-10-30",
-        "resolved_date": "2025-05-19",
-        "days": 2758
-      },
-      "latest_case": {
-        "registration_number": "16249/RD/2022",
-        "registration_date": "2022-06-15",
-        "resolved_date": "2026-09-02",
-        "days": 1540
-      },
-      "newest_case": {
-        "registration_number": "22563/RD/2025",
-        "registration_date": "2025-08-29",
-        "resolved_date": "2026-04-24",
-        "days": 238
-      },
+      "avg_days": 481,
+      "min_days": 34,
+      "max_days": 2758,
       "by_year": [
         {
           "year": 2010,
           "total": 1596,
-          "resolved": 1584
+          "resolved": 1584,
+          "pending": 12,
+          "avg_days": 266,
+          "latest_resolution_date": "2014-06-12",
+          "median_days": 248
         },
         {
           "year": 2011,
           "total": 1284,
-          "resolved": 1273
+          "resolved": 1273,
+          "pending": 11,
+          "avg_days": 237,
+          "latest_resolution_date": "2015-10-05",
+          "median_days": 213
         },
         {
           "year": 2012,
           "total": 1340,
-          "resolved": 1287
+          "resolved": 1287,
+          "pending": 53,
+          "avg_days": 293,
+          "latest_resolution_date": "2017-11-08",
+          "median_days": 241
         },
         {
           "year": 2013,
           "total": 1212,
-          "resolved": 1210
+          "resolved": 1210,
+          "pending": 2,
+          "avg_days": 330,
+          "latest_resolution_date": "2017-11-08",
+          "median_days": 288
         },
         {
           "year": 2014,
           "total": 1178,
-          "resolved": 1155
+          "resolved": 1155,
+          "pending": 23,
+          "avg_days": 341,
+          "latest_resolution_date": "2017-11-27",
+          "median_days": 281
         },
         {
           "year": 2015,
           "total": 1111,
-          "resolved": 1106
+          "resolved": 1106,
+          "pending": 5,
+          "avg_days": 295,
+          "latest_resolution_date": "2019-07-30",
+          "median_days": 254
         },
         {
           "year": 2016,
           "total": 2132,
-          "resolved": 2122
+          "resolved": 2122,
+          "pending": 10,
+          "avg_days": 352,
+          "latest_resolution_date": "2021-10-14",
+          "median_days": 302
         },
         {
           "year": 2017,
           "total": 1402,
-          "resolved": 1346
+          "resolved": 1346,
+          "pending": 56,
+          "avg_days": 479,
+          "latest_resolution_date": "2025-05-19",
+          "median_days": 452
         },
         {
           "year": 2018,
           "total": 1586,
-          "resolved": 1451
+          "resolved": 1451,
+          "pending": 135,
+          "avg_days": 415,
+          "latest_resolution_date": "2024-09-30",
+          "median_days": 361
         },
         {
           "year": 2019,
           "total": 1975,
-          "resolved": 1791
+          "resolved": 1791,
+          "pending": 184,
+          "avg_days": 472,
+          "latest_resolution_date": "2026-03-30",
+          "median_days": 422
         },
         {
           "year": 2020,
           "total": 884,
-          "resolved": 808
+          "resolved": 808,
+          "pending": 76,
+          "avg_days": 823,
+          "latest_resolution_date": "2025-12-18",
+          "median_days": 793
         },
         {
           "year": 2021,
           "total": 1727,
-          "resolved": 1589
+          "resolved": 1589,
+          "pending": 138,
+          "avg_days": 630,
+          "latest_resolution_date": "2026-07-06",
+          "median_days": 604
         },
         {
           "year": 2022,
           "total": 3998,
-          "resolved": 2851
+          "resolved": 2851,
+          "pending": 1147,
+          "avg_days": 794,
+          "latest_resolution_date": "2026-09-02",
+          "median_days": 743
         },
         {
           "year": 2023,
           "total": 5673,
-          "resolved": 1472
+          "resolved": 1472,
+          "pending": 4201,
+          "avg_days": 729,
+          "latest_resolution_date": "2026-09-02",
+          "median_days": 724
         },
         {
           "year": 2024,
           "total": 8134,
-          "resolved": 359
+          "resolved": 359,
+          "pending": 7775,
+          "avg_days": 639,
+          "latest_resolution_date": "2026-07-06",
+          "median_days": 620
         },
         {
           "year": 2025,
           "total": 7117,
-          "resolved": 2
+          "resolved": 2,
+          "pending": 7115,
+          "avg_days": 338,
+          "latest_resolution_date": "2026-09-02",
+          "median_days": 338
         },
         {
           "year": 2026,
           "total": 1433,
-          "resolved": 0
-        }
-      ],
-      "last_resolved_by_year": [
-        {
-          "year": 2010,
-          "registration_number": "163555/RD/2010",
-          "registration_date": "2010-12-29"
-        },
-        {
-          "year": 2011,
-          "registration_number": "101683/RD/2011",
-          "registration_date": "2011-12-28"
-        },
-        {
-          "year": 2012,
-          "registration_number": "88649/RD/2012",
-          "registration_date": "2012-12-28"
-        },
-        {
-          "year": 2013,
-          "registration_number": "52800/RD/2013",
-          "registration_date": "2013-12-30"
-        },
-        {
-          "year": 2014,
-          "registration_number": "21646/RD/2014",
-          "registration_date": "2014-12-30"
-        },
-        {
-          "year": 2015,
-          "registration_number": "79708/RD/2015",
-          "registration_date": "2015-12-23"
-        },
-        {
-          "year": 2016,
-          "registration_number": "114709/RD/2016",
-          "registration_date": "2016-12-29"
-        },
-        {
-          "year": 2017,
-          "registration_number": "93878/RD/2017",
-          "registration_date": "2017-12-27"
-        },
-        {
-          "year": 2018,
-          "registration_number": "99768/RD/2018",
-          "registration_date": "2018-12-28"
-        },
-        {
-          "year": 2019,
-          "registration_number": "983/RD/2020",
-          "registration_date": "2019-12-31"
-        },
-        {
-          "year": 2020,
-          "registration_number": "265/RD/2021",
-          "registration_date": "2020-12-31"
-        },
-        {
-          "year": 2021,
-          "registration_number": "45818/RD/2021",
-          "registration_date": "2021-12-31"
-        },
-        {
-          "year": 2022,
-          "registration_number": "39765/RD/2022",
-          "registration_date": "2022-12-30"
-        },
-        {
-          "year": 2023,
-          "registration_number": "9502/RD/2024",
-          "registration_date": "2023-12-29"
-        },
-        {
-          "year": 2024,
-          "registration_number": "59802/RD/2024",
-          "registration_date": "2024-12-24"
-        },
-        {
-          "year": 2025,
-          "registration_number": "22563/RD/2025",
-          "registration_date": "2025-08-29"
+          "resolved": 0,
+          "pending": 1433,
+          "avg_days": null,
+          "latest_resolution_date": null,
+          "median_days": null
         }
       ]
     },
@@ -425,202 +350,162 @@
       "pending": 245936,
       "invalid": 1,
       "median_days": 618,
-      "min_case": {
-        "registration_number": "55518/RD/2019",
-        "registration_date": "2022-07-10",
-        "resolved_date": "2022-08-08",
-        "days": 29
-      },
-      "max_case": {
-        "registration_number": "90499/RD/2019",
-        "registration_date": "2011-11-14",
-        "resolved_date": "2023-08-24",
-        "days": 4301
-      },
-      "latest_case": {
-        "registration_number": "63710/RD/2019",
-        "registration_date": "2019-08-09",
-        "resolved_date": "2026-09-01",
-        "days": 2580
-      },
-      "newest_case": {
-        "registration_number": "2880/RD/2026",
-        "registration_date": "2026-03-23",
-        "resolved_date": "2026-07-30",
-        "days": 129
-      },
+      "avg_days": 747,
+      "min_days": 29,
+      "max_days": 4301,
       "by_year": [
         {
           "year": 2010,
           "total": 94431,
-          "resolved": 55622
+          "resolved": 55622,
+          "pending": 38809,
+          "avg_days": 410,
+          "latest_resolution_date": "2018-01-29",
+          "median_days": 384
         },
         {
           "year": 2011,
           "total": 1,
-          "resolved": 1
+          "resolved": 1,
+          "pending": 0,
+          "avg_days": 4301,
+          "latest_resolution_date": "2023-08-24",
+          "median_days": 4301
         },
         {
           "year": 2012,
           "total": 87009,
-          "resolved": 86626
+          "resolved": 86626,
+          "pending": 383,
+          "avg_days": 609,
+          "latest_resolution_date": "2022-11-04",
+          "median_days": 581
         },
         {
           "year": 2013,
           "total": 51216,
-          "resolved": 50962
+          "resolved": 50962,
+          "pending": 254,
+          "avg_days": 582,
+          "latest_resolution_date": "2018-10-24",
+          "median_days": 561
         },
         {
           "year": 2014,
           "total": 19949,
-          "resolved": 19823
+          "resolved": 19823,
+          "pending": 126,
+          "avg_days": 480,
+          "latest_resolution_date": "2020-07-22",
+          "median_days": 496
         },
         {
           "year": 2015,
           "total": 79466,
-          "resolved": 58038
+          "resolved": 58038,
+          "pending": 21428,
+          "avg_days": 354,
+          "latest_resolution_date": "2024-12-06",
+          "median_days": 344
         },
         {
           "year": 2016,
           "total": 111454,
-          "resolved": 94889
+          "resolved": 94889,
+          "pending": 16565,
+          "avg_days": 418,
+          "latest_resolution_date": "2026-08-18",
+          "median_days": 385
         },
         {
           "year": 2017,
           "total": 92104,
-          "resolved": 81210
+          "resolved": 81210,
+          "pending": 10894,
+          "avg_days": 808,
+          "latest_resolution_date": "2026-08-04",
+          "median_days": 769
         },
         {
           "year": 2018,
           "total": 93756,
-          "resolved": 82010
+          "resolved": 82010,
+          "pending": 11746,
+          "avg_days": 993,
+          "latest_resolution_date": "2026-08-18",
+          "median_days": 923
         },
         {
           "year": 2019,
           "total": 96643,
-          "resolved": 78724
+          "resolved": 78724,
+          "pending": 17919,
+          "avg_days": 1236,
+          "latest_resolution_date": "2026-09-01",
+          "median_days": 1148
         },
         {
           "year": 2020,
           "total": 20333,
-          "resolved": 15513
+          "resolved": 15513,
+          "pending": 4820,
+          "avg_days": 1450,
+          "latest_resolution_date": "2026-09-01",
+          "median_days": 1316
         },
         {
           "year": 2021,
           "total": 38681,
-          "resolved": 28216
+          "resolved": 28216,
+          "pending": 10465,
+          "avg_days": 1253,
+          "latest_resolution_date": "2026-09-01",
+          "median_days": 1155
         },
         {
           "year": 2022,
           "total": 31324,
-          "resolved": 18226
+          "resolved": 18226,
+          "pending": 13098,
+          "avg_days": 1105,
+          "latest_resolution_date": "2026-09-01",
+          "median_days": 1092
         },
         {
           "year": 2023,
           "total": 38750,
-          "resolved": 8417
+          "resolved": 8417,
+          "pending": 30333,
+          "avg_days": 1103,
+          "latest_resolution_date": "2026-09-01",
+          "median_days": 1162
         },
         {
           "year": 2024,
           "total": 45761,
-          "resolved": 886
+          "resolved": 886,
+          "pending": 44875,
+          "avg_days": 785,
+          "latest_resolution_date": "2026-08-26",
+          "median_days": 801
         },
         {
           "year": 2025,
           "total": 18213,
-          "resolved": 2
+          "resolved": 2,
+          "pending": 18211,
+          "avg_days": 289,
+          "latest_resolution_date": "2026-04-02",
+          "median_days": 289
         },
         {
           "year": 2026,
           "total": 6011,
-          "resolved": 1
-        }
-      ],
-      "last_resolved_by_year": [
-        {
-          "year": 2010,
-          "registration_number": "68646/RD/2010",
-          "registration_date": "2010-12-31"
-        },
-        {
-          "year": 2011,
-          "registration_number": "90499/RD/2019",
-          "registration_date": "2011-11-14"
-        },
-        {
-          "year": 2012,
-          "registration_number": "88678/RD/2012",
-          "registration_date": "2012-12-28"
-        },
-        {
-          "year": 2013,
-          "registration_number": "52809/RD/2013",
-          "registration_date": "2013-12-30"
-        },
-        {
-          "year": 2014,
-          "registration_number": "21664/RD/2014",
-          "registration_date": "2014-12-30"
-        },
-        {
-          "year": 2015,
-          "registration_number": "81154/RD/2015",
-          "registration_date": "2015-12-31"
-        },
-        {
-          "year": 2016,
-          "registration_number": "114912/RD/2016",
-          "registration_date": "2016-12-30"
-        },
-        {
-          "year": 2017,
-          "registration_number": "94556/RD/2017",
-          "registration_date": "2017-12-29"
-        },
-        {
-          "year": 2018,
-          "registration_number": "99778/RD/2018",
-          "registration_date": "2018-12-28"
-        },
-        {
-          "year": 2019,
-          "registration_number": "1663/RD/2020",
-          "registration_date": "2019-12-31"
-        },
-        {
-          "year": 2020,
-          "registration_number": "25724/RD/2020",
-          "registration_date": "2020-12-31"
-        },
-        {
-          "year": 2021,
-          "registration_number": "45837/RD/2021",
-          "registration_date": "2021-12-31"
-        },
-        {
-          "year": 2022,
-          "registration_number": "39841/RD/2022",
-          "registration_date": "2022-12-30"
-        },
-        {
-          "year": 2023,
-          "registration_number": "50464/RD/2023",
-          "registration_date": "2023-12-29"
-        },
-        {
-          "year": 2024,
-          "registration_number": "47321/RD/2024",
-          "registration_date": "2024-10-09"
-        },
-        {
-          "year": 2025,
-          "registration_number": "17337/RD/2025",
-          "registration_date": "2025-06-17"
-        },
-        {
-          "year": 2026,
-          "registration_number": "2880/RD/2026",
-          "registration_date": "2026-03-23"
+          "resolved": 1,
+          "pending": 6010,
+          "avg_days": 129,
+          "latest_resolution_date": "2026-07-30",
+          "median_days": 129
         }
       ]
     },
@@ -633,12 +518,10 @@
       "pending": null,
       "invalid": null,
       "median_days": null,
-      "min_case": null,
-      "max_case": null,
-      "latest_case": null,
-      "newest_case": null,
-      "by_year": [],
-      "last_resolved_by_year": []
+      "avg_days": null,
+      "min_days": null,
+      "max_days": null,
+      "by_year": []
     },
     {
       "id": "1",
@@ -649,192 +532,162 @@
       "pending": 3646,
       "invalid": 0,
       "median_days": 427,
-      "min_case": {
-        "registration_number": "11472/A/2014",
-        "registration_date": "2014-05-15",
-        "resolved_date": "2014-07-07",
-        "days": 53
-      },
-      "max_case": {
-        "registration_number": "24980/A/2017",
-        "registration_date": "2017-03-22",
-        "resolved_date": "2023-11-28",
-        "days": 2442
-      },
-      "latest_case": {
-        "registration_number": "10746/A/2024",
-        "registration_date": "2024-03-04",
-        "resolved_date": "2026-08-03",
-        "days": 882
-      },
-      "newest_case": {
-        "registration_number": "40888/A/2024",
-        "registration_date": "2024-09-02",
-        "resolved_date": "2026-02-19",
-        "days": 535
-      },
+      "avg_days": 534,
+      "min_days": 53,
+      "max_days": 2442,
       "by_year": [
         {
           "year": 2010,
           "total": 380,
-          "resolved": 372
+          "resolved": 372,
+          "pending": 8,
+          "avg_days": 450,
+          "latest_resolution_date": "2016-05-13",
+          "median_days": 394
         },
         {
           "year": 2011,
           "total": 307,
-          "resolved": 305
+          "resolved": 305,
+          "pending": 2,
+          "avg_days": 274,
+          "latest_resolution_date": "2014-04-23",
+          "median_days": 250
         },
         {
           "year": 2012,
           "total": 316,
-          "resolved": 294
+          "resolved": 294,
+          "pending": 22,
+          "avg_days": 183,
+          "latest_resolution_date": "2017-07-24",
+          "median_days": 135
         },
         {
           "year": 2013,
           "total": 368,
-          "resolved": 362
+          "resolved": 362,
+          "pending": 6,
+          "avg_days": 206,
+          "latest_resolution_date": "2017-04-28",
+          "median_days": 182
         },
         {
           "year": 2014,
           "total": 539,
-          "resolved": 530
+          "resolved": 530,
+          "pending": 9,
+          "avg_days": 302,
+          "latest_resolution_date": "2018-03-22",
+          "median_days": 219
         },
         {
           "year": 2015,
           "total": 554,
-          "resolved": 550
+          "resolved": 550,
+          "pending": 4,
+          "avg_days": 405,
+          "latest_resolution_date": "2021-04-14",
+          "median_days": 309
         },
         {
           "year": 2016,
           "total": 619,
-          "resolved": 584
+          "resolved": 584,
+          "pending": 35,
+          "avg_days": 416,
+          "latest_resolution_date": "2021-12-02",
+          "median_days": 342
         },
         {
           "year": 2017,
           "total": 685,
-          "resolved": 496
+          "resolved": 496,
+          "pending": 189,
+          "avg_days": 384,
+          "latest_resolution_date": "2023-11-28",
+          "median_days": 311
         },
         {
           "year": 2018,
           "total": 736,
-          "resolved": 515
+          "resolved": 515,
+          "pending": 221,
+          "avg_days": 530,
+          "latest_resolution_date": "2024-07-26",
+          "median_days": 416
         },
         {
           "year": 2019,
           "total": 825,
-          "resolved": 553
+          "resolved": 553,
+          "pending": 272,
+          "avg_days": 790,
+          "latest_resolution_date": "2025-09-22",
+          "median_days": 769
         },
         {
           "year": 2020,
           "total": 485,
-          "resolved": 335
+          "resolved": 335,
+          "pending": 150,
+          "avg_days": 865,
+          "latest_resolution_date": "2025-07-22",
+          "median_days": 857
         },
         {
           "year": 2021,
           "total": 659,
-          "resolved": 395
+          "resolved": 395,
+          "pending": 264,
+          "avg_days": 875,
+          "latest_resolution_date": "2026-06-25",
+          "median_days": 847
         },
         {
           "year": 2022,
           "total": 624,
-          "resolved": 368
+          "resolved": 368,
+          "pending": 256,
+          "avg_days": 880,
+          "latest_resolution_date": "2026-05-21",
+          "median_days": 854
         },
         {
           "year": 2023,
           "total": 636,
-          "resolved": 364
+          "resolved": 364,
+          "pending": 272,
+          "avg_days": 866,
+          "latest_resolution_date": "2026-07-27",
+          "median_days": 855
         },
         {
           "year": 2024,
           "total": 1015,
-          "resolved": 162
+          "resolved": 162,
+          "pending": 853,
+          "avg_days": 748,
+          "latest_resolution_date": "2026-08-03",
+          "median_days": 765
         },
         {
           "year": 2025,
           "total": 653,
-          "resolved": 0
+          "resolved": 0,
+          "pending": 653,
+          "avg_days": null,
+          "latest_resolution_date": null,
+          "median_days": null
         },
         {
           "year": 2026,
           "total": 430,
-          "resolved": 0
-        }
-      ],
-      "last_resolved_by_year": [
-        {
-          "year": 2010,
-          "registration_number": "163356/A/2010",
-          "registration_date": "2010-12-29"
-        },
-        {
-          "year": 2011,
-          "registration_number": "101475/A/2011",
-          "registration_date": "2011-12-28"
-        },
-        {
-          "year": 2012,
-          "registration_number": "88120/A/2012",
-          "registration_date": "2012-12-19"
-        },
-        {
-          "year": 2013,
-          "registration_number": "52208/A/2013",
-          "registration_date": "2013-12-18"
-        },
-        {
-          "year": 2014,
-          "registration_number": "21516/A/2014",
-          "registration_date": "2014-12-22"
-        },
-        {
-          "year": 2015,
-          "registration_number": "79429/A/2015",
-          "registration_date": "2015-12-23"
-        },
-        {
-          "year": 2016,
-          "registration_number": "114611/A/2016",
-          "registration_date": "2016-12-29"
-        },
-        {
-          "year": 2017,
-          "registration_number": "94240/A/2017",
-          "registration_date": "2017-12-28"
-        },
-        {
-          "year": 2018,
-          "registration_number": "99455/A/2018",
-          "registration_date": "2018-12-27"
-        },
-        {
-          "year": 2019,
-          "registration_number": "103218/A/2019",
-          "registration_date": "2019-12-30"
-        },
-        {
-          "year": 2020,
-          "registration_number": "25581/A/2020",
-          "registration_date": "2020-12-28"
-        },
-        {
-          "year": 2021,
-          "registration_number": "45535/A/2021",
-          "registration_date": "2021-12-29"
-        },
-        {
-          "year": 2022,
-          "registration_number": "39706/A/2022",
-          "registration_date": "2022-12-29"
-        },
-        {
-          "year": 2023,
-          "registration_number": "50377/A/2023",
-          "registration_date": "2023-12-28"
-        },
-        {
-          "year": 2024,
-          "registration_number": "40888/A/2024",
-          "registration_date": "2024-09-02"
+          "resolved": 0,
+          "pending": 430,
+          "avg_days": null,
+          "latest_resolution_date": null,
+          "median_days": null
         }
       ]
     },
@@ -847,147 +700,117 @@
       "pending": 2969,
       "invalid": 0,
       "median_days": 344,
-      "min_case": {
-        "registration_number": "68304/A/2017",
-        "registration_date": "2017-09-21",
-        "resolved_date": "2017-10-31",
-        "days": 40
-      },
-      "max_case": {
-        "registration_number": "10969/A/2017",
-        "registration_date": "2017-02-08",
-        "resolved_date": "2023-08-29",
-        "days": 2393
-      },
-      "latest_case": {
-        "registration_number": "19401/A/2020",
-        "registration_date": "2020-03-03",
-        "resolved_date": "2026-06-23",
-        "days": 2303
-      },
-      "newest_case": {
-        "registration_number": "23360/A/2025",
-        "registration_date": "2025-09-09",
-        "resolved_date": "2026-06-05",
-        "days": 269
-      },
+      "avg_days": 540,
+      "min_days": 40,
+      "max_days": 2393,
       "by_year": [
         {
           "year": 2015,
           "total": 24,
-          "resolved": 23
+          "resolved": 23,
+          "pending": 1,
+          "avg_days": 1318,
+          "latest_resolution_date": "2019-10-10",
+          "median_days": 1338
         },
         {
           "year": 2016,
           "total": 641,
-          "resolved": 628
+          "resolved": 628,
+          "pending": 13,
+          "avg_days": 1070,
+          "latest_resolution_date": "2021-11-09",
+          "median_days": 1190
         },
         {
           "year": 2017,
           "total": 111,
-          "resolved": 32
+          "resolved": 32,
+          "pending": 79,
+          "avg_days": 649,
+          "latest_resolution_date": "2023-08-29",
+          "median_days": 371
         },
         {
           "year": 2018,
           "total": 605,
-          "resolved": 223
+          "resolved": 223,
+          "pending": 382,
+          "avg_days": 338,
+          "latest_resolution_date": "2023-03-03",
+          "median_days": 137
         },
         {
           "year": 2019,
           "total": 781,
-          "resolved": 357
+          "resolved": 357,
+          "pending": 424,
+          "avg_days": 843,
+          "latest_resolution_date": "2024-11-05",
+          "median_days": 934
         },
         {
           "year": 2020,
           "total": 498,
-          "resolved": 314
+          "resolved": 314,
+          "pending": 184,
+          "avg_days": 248,
+          "latest_resolution_date": "2026-06-23",
+          "median_days": 133
         },
         {
           "year": 2021,
           "total": 982,
-          "resolved": 644
+          "resolved": 644,
+          "pending": 338,
+          "avg_days": 336,
+          "latest_resolution_date": "2025-11-19",
+          "median_days": 300
         },
         {
           "year": 2022,
           "total": 486,
-          "resolved": 303
+          "resolved": 303,
+          "pending": 183,
+          "avg_days": 332,
+          "latest_resolution_date": "2025-12-23",
+          "median_days": 232
         },
         {
           "year": 2023,
           "total": 590,
-          "resolved": 325
+          "resolved": 325,
+          "pending": 265,
+          "avg_days": 449,
+          "latest_resolution_date": "2026-06-05",
+          "median_days": 363
         },
         {
           "year": 2024,
           "total": 247,
-          "resolved": 133
+          "resolved": 133,
+          "pending": 114,
+          "avg_days": 362,
+          "latest_resolution_date": "2026-06-05",
+          "median_days": 372
         },
         {
           "year": 2025,
           "total": 1180,
-          "resolved": 278
+          "resolved": 278,
+          "pending": 902,
+          "avg_days": 261,
+          "latest_resolution_date": "2026-06-23",
+          "median_days": 257
         },
         {
           "year": 2026,
           "total": 84,
-          "resolved": 0
-        }
-      ],
-      "last_resolved_by_year": [
-        {
-          "year": 2015,
-          "registration_number": "79977/A/2015",
-          "registration_date": "2015-12-23"
-        },
-        {
-          "year": 2016,
-          "registration_number": "113890/A/2016",
-          "registration_date": "2016-12-28"
-        },
-        {
-          "year": 2017,
-          "registration_number": "68304/A/2017",
-          "registration_date": "2017-09-21"
-        },
-        {
-          "year": 2018,
-          "registration_number": "97343/A/2018",
-          "registration_date": "2018-12-18"
-        },
-        {
-          "year": 2019,
-          "registration_number": "942/A/2020",
-          "registration_date": "2019-12-23"
-        },
-        {
-          "year": 2020,
-          "registration_number": "24908/A/2020",
-          "registration_date": "2020-11-17"
-        },
-        {
-          "year": 2021,
-          "registration_number": "45766/A/2021",
-          "registration_date": "2021-12-30"
-        },
-        {
-          "year": 2022,
-          "registration_number": "39840/A/2022",
-          "registration_date": "2022-12-30"
-        },
-        {
-          "year": 2023,
-          "registration_number": "49573/A/2023",
-          "registration_date": "2023-12-22"
-        },
-        {
-          "year": 2024,
-          "registration_number": "60059/A/2024",
-          "registration_date": "2024-12-31"
-        },
-        {
-          "year": 2025,
-          "registration_number": "23383/A/2025",
-          "registration_date": "2025-09-09"
+          "resolved": 0,
+          "pending": 84,
+          "avg_days": null,
+          "latest_resolution_date": null,
+          "median_days": null
         }
       ]
     },
@@ -1000,28 +823,38 @@
       "pending": 26,
       "invalid": null,
       "median_days": null,
-      "min_case": null,
-      "max_case": null,
-      "latest_case": null,
-      "newest_case": null,
+      "avg_days": null,
+      "min_days": null,
+      "max_days": null,
       "by_year": [
         {
           "year": 2015,
           "total": 1,
-          "resolved": 0
+          "resolved": 0,
+          "pending": 1,
+          "avg_days": null,
+          "latest_resolution_date": null,
+          "median_days": null
         },
         {
           "year": 2016,
           "total": 18,
-          "resolved": 0
+          "resolved": 0,
+          "pending": 18,
+          "avg_days": null,
+          "latest_resolution_date": null,
+          "median_days": null
         },
         {
           "year": 2017,
           "total": 7,
-          "resolved": 0
+          "resolved": 0,
+          "pending": 7,
+          "avg_days": null,
+          "latest_resolution_date": null,
+          "median_days": null
         }
-      ],
-      "last_resolved_by_year": []
+      ]
     },
     {
       "id": "7",
@@ -1032,12 +865,10 @@
       "pending": null,
       "invalid": null,
       "median_days": null,
-      "min_case": null,
-      "max_case": null,
-      "latest_case": null,
-      "newest_case": null,
-      "by_year": [],
-      "last_resolved_by_year": []
+      "avg_days": null,
+      "min_days": null,
+      "max_days": null,
+      "by_year": []
     }
   ]
 }
